@@ -4,7 +4,6 @@
 #include <stdbool.h>
 
 #define M 5
-
 typedef struct BTPage
 {
     short int numChavesAtual;
