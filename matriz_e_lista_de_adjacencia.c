@@ -356,6 +356,8 @@ void editar_cidade_lista(int n, coordenadas *coords, Nodo **lista, int x_ant, in
     coords[idx].x = x_novo;
     coords[idx].y = y_novo;
 
+    // Não consegui fazer essa função professor
+
 }
 
 void buscar_cidade_lista(int n, coordenadas *coords, Nodo **lista, int x1, int y1, int x2, int y2)
